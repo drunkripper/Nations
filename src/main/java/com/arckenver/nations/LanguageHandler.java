@@ -114,6 +114,7 @@ public class LanguageHandler
 	public static String ERROR_BADARG_GTS = "Invalid operation, use \"give\", \"take\" or \"set\"";
 	public static String ERROR_BADARG_AR = "Invalid argument, you must use \"add\" or \"remove\"";
 	public static String ERROR_BADARG_P = "Price must be a positive or null value";
+	public static String ERROR_VULGAAR_NAME = "Name {name} contains language prohibited on this server.";
 	
 
 	public static String ERROR_NOECO = "There is no economy plugin on this server";
